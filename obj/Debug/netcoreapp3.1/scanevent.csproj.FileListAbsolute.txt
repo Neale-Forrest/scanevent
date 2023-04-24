@@ -1,0 +1,3 @@
+D:\Code\scanevent\obj\Debug\netcoreapp3.1\scanevent.csprojAssemblyReference.cache
+D:\Code\scanevent\obj\Debug\netcoreapp3.1\scanevent.AssemblyInfoInputs.cache
+D:\Code\scanevent\obj\Debug\netcoreapp3.1\scanevent.AssemblyInfo.cs
